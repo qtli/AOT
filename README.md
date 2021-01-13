@@ -2,7 +2,6 @@
 
 This repository is the official implementation of the WSDM 2021 Paper [Abstractive Opinion Tagging](https://github.com/qtli/AOT).
 
-# An interactive webdemo can be found at [AOT Demo](https://qtli.github.io).
 
 If you have any question, please open an issue or contact qtleo@outlook.com.
 
