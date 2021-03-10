@@ -15,7 +15,7 @@ Check the packages needed or simply run the command:
 ```console
 pip3 install -r requirements.txt
 ```
-For reproducibility purposes, we place the model checkpoints at [**Google Drive**](https://drive.google.com/drive/folders/1EIIZ9SFJCE1JavUal39J_NN2WxP5JK6H?usp=sharing). You could download and move it under `/output/`.
+For reproducibility purposes, we place the model checkpoints at [**Google Drive**](https://drive.google.com/drive/folders/1Vk0SjQbNdxL8_D9l6pJMkoI8KyDpPnLt?usp=sharing). You could download and move it under `/output/`.
 
 > We would now set up our directories like this:
 
