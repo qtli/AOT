@@ -60,7 +60,6 @@ w/o AL
 ```bash
 bash script/woAL.sh 0 False
 ```
-> Add `--test` into bash file if inference.
 
 ## Baselines
 
